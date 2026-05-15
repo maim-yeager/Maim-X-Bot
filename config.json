@@ -19,7 +19,7 @@
     "BOTNAME": "Xona mia !! 😺",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100000478146113",
+        "61560850571992",
         "61576520552554",
         "61550035211214"
     ],
@@ -237,7 +237,7 @@
         "delayUnsend": 20
     },
     "autochat": {
-        "OPENAI_API_KEY": "",
+        "OPENAI_API_KEY": "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",
         "model": "gpt-3.5-turbo"
     }
 }
